@@ -1,7 +1,7 @@
 👋 Hi, I’m @jordanbCS  
-- 👀 I’m interested in: what's good.  
-- 🌱 I’m currently learning to: assimilate as well as everyone else.  
-- 💞️ I’m looking to collaborate on: voting/crypto and nature/VR stuff.  
+- 👀 I’m interested in: nature, VR, reading, writing, programming, and crypto currencies.  
+- 🌱 I’m currently learning to: enjoy the last few years we have left here.  
+- 💞️ I’m looking to collaborate on: voting with crypto, and VR nature projects with a bit of ML.  
 - 📫 How to reach me: wootcrisp.com
 
 <!---
