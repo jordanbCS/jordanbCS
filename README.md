@@ -1,4 +1,4 @@
-👋 Hi, I’m @jordanbCS  
+👋 Hi, I’m Jordan. @jordanbCS  
 - 👀 I’m interested in: nature, VR, reading, writing, programming, and crypto currencies.  
 - 🌱 I’m currently learning to: enjoy the last few years we have left here.  
 - 💞️ I’m looking to collaborate on: voting with crypto, and VR nature projects with a bit of ML.  
