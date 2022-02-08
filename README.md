@@ -5,7 +5,7 @@
   - https://vidipedia.org    
   - https://votecoin.com  
   - https://basicincome.com  
-  - https://braincoin.org  
+  - https://docs.braincoin.org  
   - https://naturevr.org  
 - 📫 How to reach me: 
   - https://wootcrisp.com   
