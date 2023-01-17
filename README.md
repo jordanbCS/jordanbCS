@@ -5,11 +5,9 @@
   - https://vidipedia.org    
   - https://votecoin.com  
   - https://basicincome.com  
-  - https://docs.braincoin.org  
   - https://naturevr.org  
 - 📫 How to reach me: 
   - https://wootcrisp.com   
-  - cv: http://www.sfu.ca/~jordanb/cv.pdf    
 
 <!---
 jordanbCS/jordanbCS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
