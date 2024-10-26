@@ -1,4 +1,4 @@
-👋 Hi, I’m Jordan. @jordanbCS  
+👋 Hi, I’m Jordan. 
 - 👀 I’m interested in: nature, VR, reading, writing, programming, and democracy.  
 - 🌱 I’m currently learning to: enjoy the last few years we have left here.  
 - 💞️ I’m looking to collaborate on: voting with cryptographic currencies, VR nature projects, and things related to "fluid analogies" and "dynamic field theory".
